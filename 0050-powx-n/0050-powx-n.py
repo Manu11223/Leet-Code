@@ -13,6 +13,7 @@ class Solution:
             base *= base
             n >>= 1
 
-        return result
+        return result 
+        
 
         
