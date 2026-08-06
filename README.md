@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Manu11223/Leet-Code/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Manu11223/Leet-Code/tree/master/0127-word-ladder) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Manu11223/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Manu11223/Leet-Code/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manu11223/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Manu11223/Leet-Code/tree/master/0127-word-ladder) |
 ## Trie
 |  |
 | ------- |
@@ -426,8 +428,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Manu11223/Leet-Code/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Manu11223/Leet-Code/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Manu11223/Leet-Code/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0127-word-ladder](https://github.com/Manu11223/Leet-Code/tree/master/0127-word-ladder) |
 ## DP on Trees
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manu11223/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Manu11223/Leet-Code/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
