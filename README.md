@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manu11223/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manu11223/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manu11223/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Manu11223/Leet-Code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Manu11223/Leet-Code/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manu11223/Leet-Code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Manu11223/Leet-Code/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Manu11223/Leet-Code/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Manu11223/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manu11223/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
