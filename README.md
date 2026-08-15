@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Manu11223/Leet-Code/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Manu11223/Leet-Code/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Manu11223/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Manu11223/Leet-Code/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Manu11223/Leet-Code/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Manu11223/Leet-Code/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
