@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manu11223/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Manu11223/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Manu11223/Leet-Code/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Manu11223/Leet-Code/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Manu11223/Leet-Code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Manu11223/Leet-Code/tree/master/0140-word-break-ii) |
+| [0198-house-robber](https://github.com/Manu11223/Leet-Code/tree/master/0198-house-robber) |
 ## Math
 |  |
 | ------- |
