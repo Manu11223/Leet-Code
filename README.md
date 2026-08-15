@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Manu11223/Leet-Code/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Manu11223/Leet-Code/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Manu11223/Leet-Code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Manu11223/Leet-Code/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Manu11223/Leet-Code/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Manu11223/Leet-Code/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
