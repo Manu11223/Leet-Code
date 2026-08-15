@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Manu11223/Leet-Code/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Manu11223/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Manu11223/Leet-Code/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Manu11223/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Sliding Window
 |  |
 | ------- |
