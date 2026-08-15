@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Manu11223/Leet-Code/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Manu11223/Leet-Code/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Manu11223/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manu11223/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Manu11223/Leet-Code/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -576,4 +578,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Manu11223/Leet-Code/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Manu11223/Leet-Code/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Manu11223/Leet-Code/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
