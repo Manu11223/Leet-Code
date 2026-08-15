@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Manu11223/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Manu11223/Leet-Code/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Manu11223/Leet-Code/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Manu11223/Leet-Code/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Manu11223/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manu11223/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Manu11223/Leet-Code/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Manu11223/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manu11223/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Manu11223/Leet-Code/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/Manu11223/Leet-Code/tree/master/0202-happy-number) |
 ## Trie
 |  |
 | ------- |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Manu11223/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manu11223/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Manu11223/Leet-Code/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
