@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Manu11223/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Manu11223/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -270,12 +271,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Manu11223/Leet-Code/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Manu11223/Leet-Code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Manu11223/Leet-Code/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/Manu11223/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manu11223/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Manu11223/Leet-Code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Manu11223/Leet-Code/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/Manu11223/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Manu11223/Leet-Code/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Manu11223/Leet-Code/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Manu11223/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
