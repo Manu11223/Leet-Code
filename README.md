@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Manu11223/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Manu11223/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Manu11223/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Manu11223/Leet-Code/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Manu11223/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manu11223/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 ## Two Pointers
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Manu11223/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Manu11223/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 ## Backtracking
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manu11223/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -666,4 +670,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0214-shortest-palindrome) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
