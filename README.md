@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Manu11223/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Manu11223/Leet-Code/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0219-contains-duplicate-ii](https://github.com/Manu11223/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Manu11223/Leet-Code/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Manu11223/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Manu11223/Leet-Code/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Manu11223/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Manu11223/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Manu11223/Leet-Code/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Manu11223/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 ## Matrix
 |  |
 | ------- |
