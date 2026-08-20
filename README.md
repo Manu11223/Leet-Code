@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Manu11223/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Manu11223/Leet-Code/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Manu11223/Leet-Code/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -704,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Manu11223/Leet-Code/tree/master/0220-contains-duplicate-iii) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Manu11223/Leet-Code/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
