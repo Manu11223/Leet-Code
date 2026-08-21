@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Manu11223/Leet-Code/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Manu11223/Leet-Code/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Manu11223/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Manu11223/Leet-Code/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Manu11223/Leet-Code/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Manu11223/Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Manu11223/Leet-Code/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Manu11223/Leet-Code/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Manu11223/Leet-Code/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Manu11223/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Manu11223/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Manu11223/Leet-Code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Manu11223/Leet-Code/tree/master/0140-word-break-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -788,4 +793,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Manu11223/Leet-Code/tree/master/0239-sliding-window-maximum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
