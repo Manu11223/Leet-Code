@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Manu11223/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manu11223/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Manu11223/Leet-Code/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Manu11223/Leet-Code/tree/master/0233-number-of-digit-one) |
 ## Math
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Manu11223/Leet-Code/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Manu11223/Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Manu11223/Leet-Code/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Manu11223/Leet-Code/tree/master/0233-number-of-digit-one) |
 ## Recursion
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Manu11223/Leet-Code/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Manu11223/Leet-Code/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/Manu11223/Leet-Code/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
 | ------- |
