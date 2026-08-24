@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Manu11223/Leet-Code/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Manu11223/Leet-Code/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Manu11223/Leet-Code/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Manu11223/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
