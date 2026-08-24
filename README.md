@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Manu11223/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Manu11223/Leet-Code/tree/master/0275-h-index-ii) |
+| [0289-game-of-life](https://github.com/Manu11223/Leet-Code/tree/master/0289-game-of-life) |
 ## Binary Search
 |  |
 | ------- |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Manu11223/Leet-Code/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Manu11223/Leet-Code/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manu11223/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0289-game-of-life](https://github.com/Manu11223/Leet-Code/tree/master/0289-game-of-life) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Manu11223/Leet-Code/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Manu11223/Leet-Code/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Manu11223/Leet-Code/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Manu11223/Leet-Code/tree/master/0289-game-of-life) |
 ## Combinatorics
 |  |
 | ------- |
