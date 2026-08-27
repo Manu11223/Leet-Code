@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Manu11223/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Manu11223/Leet-Code/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Manu11223/Leet-Code/tree/master/0319-bulb-switcher) |
 ## Recursion
 |  |
 | ------- |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Manu11223/Leet-Code/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Manu11223/Leet-Code/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
