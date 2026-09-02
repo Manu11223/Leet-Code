@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Manu11223/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Manu11223/Leet-Code/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Manu11223/Leet-Code/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Manu11223/Leet-Code/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/Manu11223/Leet-Code/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Manu11223/Leet-Code/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Manu11223/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Manu11223/Leet-Code/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
