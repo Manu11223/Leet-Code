@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Manu11223/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Manu11223/Leet-Code/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0343-integer-break](https://github.com/Manu11223/Leet-Code/tree/master/0343-integer-break) |
 ## Math
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Manu11223/Leet-Code/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Manu11223/Leet-Code/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Manu11223/Leet-Code/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Manu11223/Leet-Code/tree/master/0343-integer-break) |
 ## Recursion
 |  |
 | ------- |
