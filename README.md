@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Manu11223/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manu11223/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manu11223/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Manu11223/Leet-Code/tree/master/0310-minimum-height-trees) |
+| [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 ## Tree
 |  |
 | ------- |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Manu11223/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Manu11223/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manu11223/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Manu11223/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manu11223/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Manu11223/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 ## Counting
 |  |
 | ------- |
@@ -862,4 +867,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Manu11223/Leet-Code/tree/master/0292-nim-game) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
