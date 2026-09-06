@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Manu11223/Leet-Code/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0376-wiggle-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Manu11223/Leet-Code/tree/master/0377-combination-sum-iv) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Manu11223/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Manu11223/Leet-Code/tree/master/0275-h-index-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Manu11223/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Manu11223/Leet-Code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Manu11223/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Manu11223/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/Manu11223/Leet-Code/tree/master/0355-design-twitter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Manu11223/Leet-Code/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manu11223/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Manu11223/Leet-Code/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
