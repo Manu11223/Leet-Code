@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
+| [0388-longest-absolute-file-path](https://github.com/Manu11223/Leet-Code/tree/master/0388-longest-absolute-file-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
+| [0388-longest-absolute-file-path](https://github.com/Manu11223/Leet-Code/tree/master/0388-longest-absolute-file-path) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/Manu11223/Leet-Code/tree/master/0386-lexicographical-numbers) |
+| [0388-longest-absolute-file-path](https://github.com/Manu11223/Leet-Code/tree/master/0388-longest-absolute-file-path) |
 ## Tree
 |  |
 | ------- |
