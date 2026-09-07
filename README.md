@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Manu11223/Leet-Code/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Manu11223/Leet-Code/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/Manu11223/Leet-Code/tree/master/0386-lexicographical-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Manu11223/Leet-Code/tree/master/0310-minimum-height-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
+| [0386-lexicographical-numbers](https://github.com/Manu11223/Leet-Code/tree/master/0386-lexicographical-numbers) |
 ## Tree
 |  |
 | ------- |
