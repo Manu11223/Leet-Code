@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Manu11223/Leet-Code/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manu11223/Leet-Code/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Manu11223/Leet-Code/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/Manu11223/Leet-Code/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
 ## Recursion
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Manu11223/Leet-Code/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
 ## Trie
 |  |
 | ------- |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
 ## Ordered Set
 |  |
 | ------- |
@@ -848,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Manu11223/Leet-Code/tree/master/0223-rectangle-area) |
+| [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
 ## Queue
 |  |
 | ------- |
