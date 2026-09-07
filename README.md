@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Manu11223/Leet-Code/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/Manu11223/Leet-Code/tree/master/0393-utf-8-validation) |
 ## Binary Search
 |  |
 | ------- |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Manu11223/Leet-Code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/Manu11223/Leet-Code/tree/master/0393-utf-8-validation) |
 ## Sliding Window
 |  |
 | ------- |
