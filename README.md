@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Manu11223/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Manu11223/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Manu11223/Leet-Code/tree/master/0310-minimum-height-trees) |
 | [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
 ## Tree
 |  |
 | ------- |
