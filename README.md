@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/Manu11223/Leet-Code/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/Manu11223/Leet-Code/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 ## Binary Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Manu11223/Leet-Code/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
 | [0386-lexicographical-numbers](https://github.com/Manu11223/Leet-Code/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/Manu11223/Leet-Code/tree/master/0388-longest-absolute-file-path) |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 ## Tree
 |  |
 | ------- |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Manu11223/Leet-Code/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 ## DP on Trees
 |  |
 | ------- |
@@ -742,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Manu11223/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Manu11223/Leet-Code/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Manu11223/Leet-Code/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 ## Graph Theory
 |  |
 | ------- |
@@ -749,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Manu11223/Leet-Code/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Manu11223/Leet-Code/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Manu11223/Leet-Code/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -946,4 +952,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
