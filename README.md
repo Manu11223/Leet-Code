@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Manu11223/Leet-Code/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Manu11223/Leet-Code/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
 ## Math
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Manu11223/Leet-Code/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manu11223/Leet-Code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/Manu11223/Leet-Code/tree/master/0393-utf-8-validation) |
+| [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Manu11223/Leet-Code/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Manu11223/Leet-Code/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
 ## Depth-First Search
 |  |
 | ------- |
