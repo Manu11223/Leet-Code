@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/Manu11223/Leet-Code/tree/master/0388-longest-absolute-file-path) |
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Manu11223/Leet-Code/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Manu11223/Leet-Code/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Manu11223/Leet-Code/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Manu11223/Leet-Code/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Manu11223/Leet-Code/tree/master/0388-longest-absolute-file-path) |
+| [0394-decode-string](https://github.com/Manu11223/Leet-Code/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
