@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Manu11223/Leet-Code/tree/master/0275-h-index-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/Manu11223/Leet-Code/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/Manu11223/Leet-Code/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/Manu11223/Leet-Code/tree/master/0400-nth-digit) |
 ## Recursion
 |  |
 | ------- |
