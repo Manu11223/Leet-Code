@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Manu11223/Leet-Code/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Manu11223/Leet-Code/tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/Manu11223/Leet-Code/tree/master/0385-mini-parser) |
 | [0388-longest-absolute-file-path](https://github.com/Manu11223/Leet-Code/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Manu11223/Leet-Code/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manu11223/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
 ## Simulation
 |  |
 | ------- |
