@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Manu11223/Leet-Code/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Manu11223/Leet-Code/tree/master/0403-frog-jump) |
+| [0406-queue-reconstruction-by-height](https://github.com/Manu11223/Leet-Code/tree/master/0406-queue-reconstruction-by-height) |
 ## Binary Search
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Manu11223/Leet-Code/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/Manu11223/Leet-Code/tree/master/0406-queue-reconstruction-by-height) |
 ## Backtracking
 |  |
 | ------- |
@@ -871,10 +873,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/Manu11223/Leet-Code/tree/master/0406-queue-reconstruction-by-height) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
+| [0406-queue-reconstruction-by-height](https://github.com/Manu11223/Leet-Code/tree/master/0406-queue-reconstruction-by-height) |
 ## Sweep Line
 |  |
 | ------- |
