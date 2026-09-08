@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Manu11223/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manu11223/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Manu11223/Leet-Code/tree/master/0394-decode-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
 | [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Trie
 |  |
 | ------- |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Manu11223/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Manu11223/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Manu11223/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Matrix
 |  |
 | ------- |
