@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Manu11223/Leet-Code/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/Manu11223/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Manu11223/Leet-Code/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Manu11223/Leet-Code/tree/master/0401-binary-watch) |
 ## Linked List
 |  |
 | ------- |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/Manu11223/Leet-Code/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/Manu11223/Leet-Code/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
 | ------- |
