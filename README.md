@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/Manu11223/Leet-Code/tree/master/0403-frog-jump) |
 | [0406-queue-reconstruction-by-height](https://github.com/Manu11223/Leet-Code/tree/master/0406-queue-reconstruction-by-height) |
+| [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Manu11223/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/Manu11223/Leet-Code/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Manu11223/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Manu11223/Leet-Code/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Manu11223/Leet-Code/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Manu11223/Leet-Code/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 ## DP on Trees
 |  |
 | ------- |
