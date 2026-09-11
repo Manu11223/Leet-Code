@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Manu11223/Leet-Code/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Manu11223/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Manu11223/Leet-Code/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
