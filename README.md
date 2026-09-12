@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manu11223/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/Manu11223/Leet-Code/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Manu11223/Leet-Code/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Manu11223/Leet-Code/tree/master/0406-queue-reconstruction-by-height) |
+| [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 ## Backtracking
 |  |
 | ------- |
