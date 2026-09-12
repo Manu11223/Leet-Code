@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/Manu11223/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
+| [0433-minimum-genetic-mutation](https://github.com/Manu11223/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 ## Trie
 |  |
 | ------- |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Manu11223/Leet-Code/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manu11223/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/Manu11223/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 ## DP on Trees
 |  |
 | ------- |
@@ -778,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Manu11223/Leet-Code/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Manu11223/Leet-Code/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/Manu11223/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 ## Union-Find
 |  |
 | ------- |
