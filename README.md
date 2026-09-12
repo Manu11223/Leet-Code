@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
 ## Trie
 |  |
 | ------- |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/Manu11223/Leet-Code/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
 ## Stack
 |  |
 | ------- |
@@ -813,11 +815,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Manu11223/Leet-Code/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Manu11223/Leet-Code/tree/master/0341-flatten-nested-list-iterator) |
 | [0355-design-twitter](https://github.com/Manu11223/Leet-Code/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Manu11223/Leet-Code/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
 ## Database
 |  |
 | ------- |
