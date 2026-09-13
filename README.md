@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Manu11223/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Manu11223/Leet-Code/tree/master/0436-find-right-interval) |
+| [0447-number-of-boomerangs](https://github.com/Manu11223/Leet-Code/tree/master/0447-number-of-boomerangs) |
 ## Binary Search
 |  |
 | ------- |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Manu11223/Leet-Code/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/Manu11223/Leet-Code/tree/master/0400-nth-digit) |
+| [0447-number-of-boomerangs](https://github.com/Manu11223/Leet-Code/tree/master/0447-number-of-boomerangs) |
 ## Recursion
 |  |
 | ------- |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0433-minimum-genetic-mutation](https://github.com/Manu11223/Leet-Code/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0447-number-of-boomerangs](https://github.com/Manu11223/Leet-Code/tree/master/0447-number-of-boomerangs) |
 ## Trie
 |  |
 | ------- |
