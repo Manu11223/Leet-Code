@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Manu11223/Leet-Code/tree/master/0436-find-right-interval) |
 | [0447-number-of-boomerangs](https://github.com/Manu11223/Leet-Code/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manu11223/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manu11223/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Binary Search
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Manu11223/Leet-Code/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manu11223/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/Manu11223/Leet-Code/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Manu11223/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manu11223/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Backtracking
 |  |
 | ------- |
