@@ -11,7 +11,7 @@
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> head = [1], n = 1
+<strong>Input:</strong> head = [1], n = 1	
 <strong>Output:</strong> []
 </pre>
 
