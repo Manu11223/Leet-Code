@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/Manu11223/Leet-Code/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Manu11223/Leet-Code/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0461-hamming-distance) |
 ## Sliding Window
 |  |
 | ------- |
