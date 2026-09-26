@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Manu11223/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/Manu11223/Leet-Code/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Manu11223/Leet-Code/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/Manu11223/Leet-Code/tree/master/0460-lfu-cache) |
 ## Trie
 |  |
 | ------- |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Manu11223/Leet-Code/tree/master/0355-design-twitter) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Manu11223/Leet-Code/tree/master/0460-lfu-cache) |
 ## Stack
 |  |
 | ------- |
@@ -879,12 +881,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Manu11223/Leet-Code/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Manu11223/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
+| [0460-lfu-cache](https://github.com/Manu11223/Leet-Code/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Manu11223/Leet-Code/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Manu11223/Leet-Code/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Manu11223/Leet-Code/tree/master/0432-all-oone-data-structure) |
+| [0460-lfu-cache](https://github.com/Manu11223/Leet-Code/tree/master/0460-lfu-cache) |
 ## Database
 |  |
 | ------- |
