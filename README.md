@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Manu11223/Leet-Code/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manu11223/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manu11223/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manu11223/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/Manu11223/Leet-Code/tree/master/0400-nth-digit) |
 | [0447-number-of-boomerangs](https://github.com/Manu11223/Leet-Code/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manu11223/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Recursion
 |  |
 | ------- |
