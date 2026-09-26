@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manu11223/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Manu11223/Leet-Code/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/Manu11223/Leet-Code/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Manu11223/Leet-Code/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Manu11223/Leet-Code/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0388-longest-absolute-file-path](https://github.com/Manu11223/Leet-Code/tree/master/0388-longest-absolute-file-path) |
 | [0394-decode-string](https://github.com/Manu11223/Leet-Code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Manu11223/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Manu11223/Leet-Code/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
 ## Simulation
 |  |
 | ------- |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Manu11223/Leet-Code/tree/master/0220-contains-duplicate-iii) |
+| [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
 ## Bucket Sort
 |  |
 | ------- |
