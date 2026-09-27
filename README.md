@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/Manu11223/Leet-Code/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 ## Math
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manu11223/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0458-poor-pigs](https://github.com/Manu11223/Leet-Code/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manu11223/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 ## Recursion
 |  |
 | ------- |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/Manu11223/Leet-Code/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0461-hamming-distance) |
+| [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 ## Sliding Window
 |  |
 | ------- |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Manu11223/Leet-Code/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Manu11223/Leet-Code/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1056,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Manu11223/Leet-Code/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 ## Nim Game
 |  |
 | ------- |
@@ -1092,4 +1097,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Manu11223/Leet-Code/tree/master/0455-assign-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
