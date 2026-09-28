@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Manu11223/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Manu11223/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0459-repeated-substring-pattern) |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/Manu11223/Leet-Code/tree/master/0467-unique-substrings-in-wraparound-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0458-poor-pigs](https://github.com/Manu11223/Leet-Code/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
+| [0467-unique-substrings-in-wraparound-string](https://github.com/Manu11223/Leet-Code/tree/master/0467-unique-substrings-in-wraparound-string) |
 ## Math
 |  |
 | ------- |
