@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manu11223/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Manu11223/Leet-Code/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Manu11223/Leet-Code/tree/master/0474-ones-and-zeroes) |
+| [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 ## Binary Search
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Manu11223/Leet-Code/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Manu11223/Leet-Code/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Manu11223/Leet-Code/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/Manu11223/Leet-Code/tree/master/0457-circular-array-loop) |
+| [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 ## String
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manu11223/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Manu11223/Leet-Code/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manu11223/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 ## Backtracking
 |  |
 | ------- |
