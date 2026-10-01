@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manu11223/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0477-total-hamming-distance) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
 ## Recursion
 |  |
 | ------- |
@@ -1021,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/Manu11223/Leet-Code/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
 ## Queue
 |  |
 | ------- |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
+| [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1123,4 +1126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Manu11223/Leet-Code/tree/master/0474-ones-and-zeroes) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
