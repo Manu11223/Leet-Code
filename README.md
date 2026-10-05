@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manu11223/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0477-total-hamming-distance) |
+| [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
 ## Binary Search
 |  |
 | ------- |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Manu11223/Leet-Code/tree/master/0454-4sum-ii) |
 | [0457-circular-array-loop](https://github.com/Manu11223/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/Manu11223/Leet-Code/tree/master/0460-lfu-cache) |
+| [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
 ## Trie
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Manu11223/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
 ## Merge Sort
 |  |
 | ------- |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manu11223/Leet-Code/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Manu11223/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
 ## Matrix
 |  |
 | ------- |
@@ -1132,4 +1136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
