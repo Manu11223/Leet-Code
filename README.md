@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Manu11223/Leet-Code/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
+| [0483-smallest-good-base](https://github.com/Manu11223/Leet-Code/tree/master/0483-smallest-good-base) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/Manu11223/Leet-Code/tree/master/0479-largest-palindrome-product) |
+| [0483-smallest-good-base](https://github.com/Manu11223/Leet-Code/tree/master/0483-smallest-good-base) |
 ## Recursion
 |  |
 | ------- |
