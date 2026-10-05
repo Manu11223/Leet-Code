@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 | [0477-total-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
+| [0479-largest-palindrome-product](https://github.com/Manu11223/Leet-Code/tree/master/0479-largest-palindrome-product) |
 ## Recursion
 |  |
 | ------- |
@@ -936,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manu11223/Leet-Code/tree/master/0204-count-primes) |
+| [0479-largest-palindrome-product](https://github.com/Manu11223/Leet-Code/tree/master/0479-largest-palindrome-product) |
 ## Number Theory
 |  |
 | ------- |
