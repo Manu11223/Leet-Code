@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Manu11223/Leet-Code/tree/master/0495-teemo-attacking) |
 ## Binary Search
 |  |
 | ------- |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Manu11223/Leet-Code/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Manu11223/Leet-Code/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Manu11223/Leet-Code/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/Manu11223/Leet-Code/tree/master/0495-teemo-attacking) |
 ## Combinatorics
 |  |
 | ------- |
