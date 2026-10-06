@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
 | [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Manu11223/Leet-Code/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0474-ones-and-zeroes](https://github.com/Manu11223/Leet-Code/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Manu11223/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Manu11223/Leet-Code/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -1145,10 +1148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Manu11223/Leet-Code/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Manu11223/Leet-Code/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
 ## Rejection Sampling
 |  |
 | ------- |
