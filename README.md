@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Manu11223/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Manu11223/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/Manu11223/Leet-Code/tree/master/0483-smallest-good-base) |
 | [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/Manu11223/Leet-Code/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Manu11223/Leet-Code/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Recursion
 |  |
 | ------- |
@@ -998,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Manu11223/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1044,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/Manu11223/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1125,11 +1130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Randomized
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Manu11223/Leet-Code/tree/master/0398-random-pick-index) |
 | [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Shortest Path
 |  |
 | ------- |
