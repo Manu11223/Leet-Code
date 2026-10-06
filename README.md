@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
 | [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
+| [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 | [0483-smallest-good-base](https://github.com/Manu11223/Leet-Code/tree/master/0483-smallest-good-base) |
+| [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manu11223/Leet-Code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Manu11223/Leet-Code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manu11223/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -1012,11 +1016,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/Manu11223/Leet-Code/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0406-queue-reconstruction-by-height](https://github.com/Manu11223/Leet-Code/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 ## Sweep Line
 |  |
 | ------- |
@@ -1028,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Manu11223/Leet-Code/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Manu11223/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/Manu11223/Leet-Code/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1150,4 +1157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
+| [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
