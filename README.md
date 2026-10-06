@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0478-generate-random-point-in-a-circle](https://github.com/Manu11223/Leet-Code/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/Manu11223/Leet-Code/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/Manu11223/Leet-Code/tree/master/0483-smallest-good-base) |
+| [0492-construct-the-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0492-construct-the-rectangle) |
 ## Recursion
 |  |
 | ------- |
