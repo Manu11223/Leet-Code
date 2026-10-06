@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Manu11223/Leet-Code/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Manu11223/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0498-diagonal-traverse](https://github.com/Manu11223/Leet-Code/tree/master/0498-diagonal-traverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Manu11223/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Manu11223/Leet-Code/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Manu11223/Leet-Code/tree/master/0498-diagonal-traverse) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Manu11223/Leet-Code/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Manu11223/Leet-Code/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/Manu11223/Leet-Code/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Manu11223/Leet-Code/tree/master/0498-diagonal-traverse) |
 ## Combinatorics
 |  |
 | ------- |
