@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0477-total-hamming-distance) |
 | [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Manu11223/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0460-lfu-cache](https://github.com/Manu11223/Leet-Code/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
+| [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
 ## Trie
 |  |
 | ------- |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Manu11223/Leet-Code/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Manu11223/Leet-Code/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Manu11223/Leet-Code/tree/master/0401-binary-watch) |
+| [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Manu11223/Leet-Code/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/Manu11223/Leet-Code/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Manu11223/Leet-Code/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
