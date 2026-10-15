@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Manu11223/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [0481-magical-string](https://github.com/Manu11223/Leet-Code/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Manu11223/Leet-Code/tree/master/0482-license-key-formatting) |
+| [0504-base-7](https://github.com/Manu11223/Leet-Code/tree/master/0504-base-7) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0483-smallest-good-base](https://github.com/Manu11223/Leet-Code/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/Manu11223/Leet-Code/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/Manu11223/Leet-Code/tree/master/0504-base-7) |
 ## Recursion
 |  |
 | ------- |
