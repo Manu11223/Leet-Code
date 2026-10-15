@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manu11223/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/Manu11223/Leet-Code/tree/master/0498-diagonal-traverse) |
+| [0502-ipo](https://github.com/Manu11223/Leet-Code/tree/master/0502-ipo) |
 ## Binary Search
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Manu11223/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manu11223/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Manu11223/Leet-Code/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Manu11223/Leet-Code/tree/master/0502-ipo) |
 ## Hash Table
 |  |
 | ------- |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Manu11223/Leet-Code/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manu11223/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
+| [0502-ipo](https://github.com/Manu11223/Leet-Code/tree/master/0502-ipo) |
 ## Backtracking
 |  |
 | ------- |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Manu11223/Leet-Code/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Manu11223/Leet-Code/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
+| [0502-ipo](https://github.com/Manu11223/Leet-Code/tree/master/0502-ipo) |
 ## Merge Sort
 |  |
 | ------- |
