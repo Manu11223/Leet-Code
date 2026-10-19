@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Manu11223/Leet-Code/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Manu11223/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Manu11223/Leet-Code/tree/master/0517-super-washing-machines) |
+| [0518-coin-change-ii](https://github.com/Manu11223/Leet-Code/tree/master/0518-coin-change-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
 | [0514-freedom-trail](https://github.com/Manu11223/Leet-Code/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/Manu11223/Leet-Code/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -1190,6 +1192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Manu11223/Leet-Code/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Manu11223/Leet-Code/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/Manu11223/Leet-Code/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -1204,4 +1207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0480-sliding-window-median](https://github.com/Manu11223/Leet-Code/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/Manu11223/Leet-Code/tree/master/0493-reverse-pairs) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Manu11223/Leet-Code/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
