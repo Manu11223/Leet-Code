@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Manu11223/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Manu11223/Leet-Code/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Manu11223/Leet-Code/tree/master/0503-next-greater-element-ii) |
+| [0517-super-washing-machines](https://github.com/Manu11223/Leet-Code/tree/master/0517-super-washing-machines) |
 ## Binary Search
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Manu11223/Leet-Code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Manu11223/Leet-Code/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Manu11223/Leet-Code/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Manu11223/Leet-Code/tree/master/0517-super-washing-machines) |
 ## Hash Table
 |  |
 | ------- |
