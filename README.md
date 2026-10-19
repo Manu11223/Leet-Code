@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Manu11223/Leet-Code/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manu11223/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Manu11223/Leet-Code/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Manu11223/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Tree
 |  |
 | ------- |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Manu11223/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Manu11223/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manu11223/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Manu11223/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/Manu11223/Leet-Code/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Manu11223/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manu11223/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Manu11223/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -909,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Manu11223/Leet-Code/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Manu11223/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Manu11223/Leet-Code/tree/master/0514-freedom-trail) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Manu11223/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## DP on Trees
 |  |
 | ------- |
