@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0517-super-washing-machines](https://github.com/Manu11223/Leet-Code/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Manu11223/Leet-Code/tree/master/0518-coin-change-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/Manu11223/Leet-Code/tree/master/0504-base-7) |
 | [0519-random-flip-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manu11223/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0519-random-flip-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 ## Trie
 |  |
 | ------- |
@@ -1041,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Manu11223/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0523-continuous-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1222,4 +1226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Manu11223/Leet-Code/tree/master/0518-coin-change-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
