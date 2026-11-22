@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Manu11223/Leet-Code/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Manu11223/Leet-Code/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Manu11223/Leet-Code/tree/master/0518-coin-change-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Manu11223/Leet-Code/tree/master/0457-circular-array-loop) |
 | [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Manu11223/Leet-Code/tree/master/0481-magical-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## String
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Manu11223/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Manu11223/Leet-Code/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Manu11223/Leet-Code/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Manu11223/Leet-Code/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Manu11223/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0519-random-flip-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0519-random-flip-matrix) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Trie
 |  |
 | ------- |
@@ -534,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manu11223/Leet-Code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Manu11223/Leet-Code/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/Manu11223/Leet-Code/tree/master/0502-ipo) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
 ## Backtracking
 |  |
 | ------- |
