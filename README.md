@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Manu11223/Leet-Code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/Manu11223/Leet-Code/tree/master/0525-contiguous-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0519-random-flip-matrix](https://github.com/Manu11223/Leet-Code/tree/master/0519-random-flip-matrix) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/Manu11223/Leet-Code/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Manu11223/Leet-Code/tree/master/0525-contiguous-array) |
 ## Trie
 |  |
 | ------- |
@@ -1049,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Manu11223/Leet-Code/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Manu11223/Leet-Code/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/Manu11223/Leet-Code/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Manu11223/Leet-Code/tree/master/0525-contiguous-array) |
 ## Rolling Hash
 |  |
 | ------- |
