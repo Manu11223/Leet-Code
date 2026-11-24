@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Manu11223/Leet-Code/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/Manu11223/Leet-Code/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Manu11223/Leet-Code/tree/master/0526-beautiful-arrangement) |
+| [0529-minesweeper](https://github.com/Manu11223/Leet-Code/tree/master/0529-minesweeper) |
 ## Binary Search
 |  |
 | ------- |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Manu11223/Leet-Code/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Manu11223/Leet-Code/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Manu11223/Leet-Code/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/Manu11223/Leet-Code/tree/master/0529-minesweeper) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Manu11223/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Manu11223/Leet-Code/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manu11223/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/Manu11223/Leet-Code/tree/master/0529-minesweeper) |
 ## Tree
 |  |
 | ------- |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Manu11223/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0514-freedom-trail](https://github.com/Manu11223/Leet-Code/tree/master/0514-freedom-trail) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Manu11223/Leet-Code/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/Manu11223/Leet-Code/tree/master/0529-minesweeper) |
 ## DP on Trees
 |  |
 | ------- |
